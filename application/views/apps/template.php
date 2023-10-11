@@ -20,7 +20,7 @@
   <header id="header">
     <div class="container">
       <div id="logo" class="pull-left">
-        <h1><a href="#intro" class="scrollto">IoT Project</a></h1>
+        <h1><a href="#intro" class="scrollto">Web Monitoring</a></h1>
       </div>
       <nav id="nav-menu-container">
         <ul class="nav-menu">
